@@ -4,7 +4,7 @@
 }
 
 #calculadora h3{
-    font-size: 40px;
+    font-size: 25px;
 }
 
 #calculadora #d1 {
@@ -35,3 +35,6 @@
     color: black;
 }
 
+#textSmall{
+    font-size: small;
+}
